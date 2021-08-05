@@ -39,7 +39,7 @@ const App = () => {
               );
           })
           .catch((e) => e);
-      }, 100)
+      }, 500)
     );
   };
   return (
@@ -52,7 +52,7 @@ const App = () => {
             <TextField
               {...props}
               onChange={(event) => changeHandler(event)}
-              label="debug"
+              label="Search"
               margin="normal"
             />
           )}
