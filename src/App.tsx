@@ -11,7 +11,7 @@ const Component = () => {
     <div>
       <iframe
         title="asd"
-        src={`https://cht.xxx/affiliates/in/?tour=9oGW&campaign=nna9W&track=TFC_livechatroom&room=${username}&disable_sound=0&embed_video_only=010`}
+        src={`https://www.cht.xxx/embed/${username}/?join_overlay=1&campaign=nna9W&embed_video_only=0&disable_sound=0&tour=9oGW&room=allisonpalmer`}
         height={600}
         width={1000}
         style={{ border: "0" }}
