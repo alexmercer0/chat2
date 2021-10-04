@@ -13,7 +13,7 @@ const Component = () => {
         title="asd"
         src={`https://www.cht.xxx/embed/${username}/?join_overlay=1&campaign=nna9W&embed_video_only=0&disable_sound=0&tour=9oGW&room=allisonpalmer`}
         height={600}
-        width={1000}
+        width={1200}
         style={{ border: "0" }}
       ></iframe>
     </div>
