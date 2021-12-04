@@ -54,6 +54,7 @@ const App = () => {
               onChange={(event) => changeHandler(event)}
               label="Search"
               margin="normal"
+style={{background: "white"}}
             />
           )}
         />
